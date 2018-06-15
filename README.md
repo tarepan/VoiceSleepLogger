@@ -3,6 +3,7 @@ Record Sleep-Log with Voice by Google Home &amp; IFTTT
 現在は日本語版で開発中ですが、原理上、言語を選ばずに可能です。  
 
 # About (Demo)
+[![VoiceSleepLogger](http://img.youtube.com/vi/zIuK77xYAjw/0.jpg)](http://www.youtube.com/watch?v=zIuK77xYAjw "VoiceSleepLogger")
 
 # System Architecture
 1. 「OK Google, おやすみ.」  
@@ -22,7 +23,6 @@ Record Sleep-Log with Voice by Google Home &amp; IFTTT
 15. Sleep-Log is recorded in Google Calendar!!
 
 # Technique
-[![VoiceSleepLogger](http://img.youtube.com/vi/zIuK77xYAjw/0.jpg)](http://www.youtube.com/watch?v=zIuK77xYAjw "VoiceSleepLogger")
 ## Default Google Home word
 By default, 「おやすみ」 and 「おはよう」 are used by Google Assistant itself.  
 But we can use it as our wake-word by ShortCut setting is Google Home app (in my case, iOS app).  
